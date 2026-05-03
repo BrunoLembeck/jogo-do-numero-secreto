@@ -1,0 +1,1 @@
+- Projeto prático realizado através das aulas do curso de Lógica de Programação da plataforma Alura
